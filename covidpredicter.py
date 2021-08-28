@@ -23,7 +23,7 @@ import seaborn as sns
 
 data = pd.read_csv(r'C:\Users\Saaqib\Documents\Python\PythonProjects\Covidproject\corona_tested_individuals.csv')
 # data = data.sample(frac=0.1, random_state=1234)
-# print('data=',data.iloc[41])
+# print('data=',data)
 
 # print(data.info())
 
